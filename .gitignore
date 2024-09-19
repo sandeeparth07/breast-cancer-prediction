@@ -16,7 +16,6 @@ venv/
 *.log
 docker-compose.yml
 .dockerignore
-Dockerfile
 docker-compose.override.yml
 
 # Environment files

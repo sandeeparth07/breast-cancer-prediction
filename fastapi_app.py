@@ -49,4 +49,4 @@ async def startup_event():
 
 @app.get("/")
 def read_root():
-    return {"message": "Welcome to the Breast Cancer Prediction API"}
+    return {"message": "Welcome to the Breast Cancer Prediction API v 2.0"}
